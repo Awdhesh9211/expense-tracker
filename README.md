@@ -7,7 +7,7 @@ A minimal yet powerful backend for managing expenses, built with Node.js, Expres
 
 ## 📸 Preview
 
-![Dashboard](./dashboard.png)
+![Dashboard](dashboard.png)
 
 ---
 
