@@ -7,7 +7,7 @@ A minimal yet powerful backend for managing expenses, built with Node.js, Expres
 
 ## 📸 Preview
 
-![Dashboard](https://raw.githubusercontent.com/Awdhesh9211/expense-tracker/main/dashboard.png)
+![](dashboard.png)
 
 ---
 
