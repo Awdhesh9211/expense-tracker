@@ -1,0 +1,112 @@
+# =========================
+
+# Node.js
+
+# =========================
+
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# =========================
+
+# Environment variables
+
+# =========================
+
+.env
+.env.local
+.env.*.local
+
+# =========================
+
+# Build / Production
+
+# =========================
+
+dist/
+build/
+.out/
+.next/
+coverage/
+
+# =========================
+
+# Logs
+
+# =========================
+
+logs
+*.log
+
+# =========================
+
+# OS files
+
+# =========================
+
+.DS_Store
+Thumbs.db
+
+# =========================
+
+# IDE / Editor
+
+# =========================
+
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# =========================
+
+# Cache
+
+# =========================
+
+.cache/
+.parcel-cache/
+vite.svg
+
+# =========================
+
+# Misc
+
+# =========================
+
+*.tgz
+*.bak
+*.tmp
+
+# =========================
+
+# TypeScript
+
+# =========================
+
+*.tsbuildinfo
+
+# =========================
+
+# Testing
+
+# =========================
+
+jest.config.js
+coverage/
+
+# =========================
+
+# Optional (keep if needed)
+
+# =========================
+
+# public/uploads/
+
+# secrets/
